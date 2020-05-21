@@ -1,0 +1,2 @@
+AR_One/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+UnityOne/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
