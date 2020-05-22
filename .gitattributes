@@ -1,3 +1,4 @@
 AR_One/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
 UnityOne/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
 AR_Book/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+AR_Card/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
